@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Dracul_PlayZ.aternos.me:41885",
+    "port": 41885,
     "version": "1.21.1"
   },
   "position": {
